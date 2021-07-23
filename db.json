@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 3,
+      "firstName": "marko",
+      "lastName": "markic",
+      "email": "marko@live.com",
+      "mobile": "123456",
+      "salary": "3000"
+    },
+    {
+      "id": 4,
+      "firstName": "matej",
+      "lastName": "maric",
+      "email": "matej@gmail.com",
+      "mobile": "2308518",
+      "salary": "10000"
+    },
+    {
+      "id": 2,
+      "firstName": "or ",
+      "lastName": "ro",
+      "email": "or",
+      "mobile": "12341",
+      "salary": "5432"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
